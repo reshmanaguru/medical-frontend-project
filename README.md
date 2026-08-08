@@ -31,4 +31,4 @@ To run this project locally, simply clone the repository and open the `index.htm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/reshmanaguru/medical-frontend-project
+   git clone https://github.com/reshmanaguru/medical-frontend-project.git
