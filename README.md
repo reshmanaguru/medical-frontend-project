@@ -25,10 +25,4 @@ https://drmedicare.netlify.app/
 - **AOS (Animate On Scroll)**: Smooth scroll animations.
 - **Google Fonts**: Custom typography using 'Poppins'.
 
-## 📦 Getting Started
 
-To run this project locally, simply clone the repository and open the `index.html` file in any modern web browser. No complex setup or build process is required!
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/reshmanaguru/medical-frontend-project.git
